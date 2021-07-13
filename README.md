@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hello there! I'm Momin Chaudhry and welcome to my Github profile!
+### 🎓 I am an Engineering Student at the University of Waterloo
+### 🔭 I am currently working on a machine learning algorithm for a new project!
+### 👀 Check out my repositories, including Stocky! A real-time Discord Stock Bot
+### 📫 Connect and message me on [LinkedIn](https://www.linkedin.com/in/momin-chaudhry/)! I like meeting new people :)
+
+
 
 <!--
 **Momin-C/Momin-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
