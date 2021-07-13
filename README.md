@@ -1,5 +1,5 @@
 ### 👋 Hello there! I'm Momin Chaudhry and welcome to my Github profile!
-### 🎓 I am an Engineering Student at the University of Waterloo
+### 🎓 I am an incoming Engineering Student at the University of Waterloo
 ### 🔭 I am currently working on a machine learning algorithm for a new project!
 ### 👀 Check out my repositories, including [Stocky](https://github.com/Momin-C/Stocky)! A real-time Discord Stock Bot
 ### 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/momin-chaudhry/)! Shoot me a message, I'd love to get to know you :)
