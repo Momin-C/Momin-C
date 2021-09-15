@@ -1,5 +1,5 @@
 ### 👋 Hello there! I'm Momin Chaudhry and welcome to my Github profile!
-### 🎓 I'm an incoming Engineering Student at the University of Waterloo
+### 🎓 I'm an Engineering Student at the University of Waterloo
 ### 👀 Check out my repositories, including [Stocky](https://github.com/Momin-C/Stocky) and [The Number Guide](https://github.com/Momin-C/The-Number-Guide)
 ### 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/momin-chaudhry/)! Shoot me a message, I'd love to get to know you :)
 
