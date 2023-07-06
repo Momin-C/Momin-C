@@ -3,7 +3,9 @@
 ### 👀 Check out my repositories, including [Stocky](https://github.com/Momin-C/Stocky) and [The Number Guide](https://github.com/Momin-C/The-Number-Guide)
 ### 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/momin-chaudhry/)! Shoot me a message, I'd love to get to know you :)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Momin-C)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momin-C)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Momin-C/Momin-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
